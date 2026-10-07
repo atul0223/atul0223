@@ -42,9 +42,11 @@
 - Clean, reliable product with a strong focus on user experience
 - Handled the full development lifecycle from idea to deployment
 ## portfolio
--softwarethekedar.in
--atul.softwarethekedar.in
--www.softwarethekedar.in
+
+ - softwarethekedar.in
+ - atul.softwarethekedar.in
+ - www.softwarethekedar.in
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/atul-sharma-9b183b250/
 - GitHub: https://github.com/atul0223
